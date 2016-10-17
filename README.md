@@ -1,0 +1,2 @@
+# resourceMagic
+resouceMagic POC Automation
